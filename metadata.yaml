@@ -1,11 +1,16 @@
 _repo: A-Wayfarer-s-Faith-Aspects-of-the-common-basis-of-religious-life_64544
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64544-h/images/cover.jpg
 creator:
   author:
     agent_name: Harvey, T. Edmund
     gutenberg_agent_id: '53001'
     url: http://www.gutenberg.org/2009/agents/53001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64544#A-Wayfarer-s-Faith-Aspects-of-the-common-basis-of-religious-life
 gutenberg_issued: '2021-03-01'
 gutenberg_type: Text
 identifiers:
